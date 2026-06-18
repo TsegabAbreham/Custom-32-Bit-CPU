@@ -7,3 +7,4 @@ A custom CPU architecture made from scratch in Logisim and later made in Verilog
  - PC counter
  - MAR and MDA
 
+For more information about the two implementation click on the directory above to get a full information in detail and how to use it yourself.
