@@ -18,7 +18,8 @@ The Logisim CPU consists of several components:
 
 ## CPU Overview Screenshot
 
-<img width="2078" height="916" alt="image" src="https://github.com/user-attachments/assets/556c87c0-b73e-44a2-b22c-599a0fed88dc" />
+<img width="2078" height="916" alt="image" src="https://github.com/user-attachments/assets/7594d522-93de-44b0-bcb9-89888a1fd262" />
+
 
 ---
 
